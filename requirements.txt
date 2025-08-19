@@ -1,0 +1,8 @@
+# Core dependencies for GPU Scraper
+aiohttp==3.12.15
+beautifulsoup4==4.13.4
+pandas==2.3.1
+openpyxl==3.1.5
+PyYAML==6.0.2
+lxml==6.0.0
+aiofiles==24.1.0

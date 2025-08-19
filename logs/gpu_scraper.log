@@ -1,0 +1,32 @@
+2025-08-18 13:16:54 - __main__ - INFO - Starting GPU scraper at 2025-08-18 13:16:54.180349
+2025-08-18 13:16:54 - __main__ - INFO - Checking compliance for all target sites...
+2025-08-18 13:16:54 - utils.compliance_checker - INFO - Checking compliance for https://www.ebay.co.uk
+2025-08-18 13:17:00 - utils.compliance_checker - INFO - Checking compliance for https://www.facebook.com/marketplace
+2025-08-18 13:17:01 - __main__ - WARNING - facebook: Robots.txt disallows scraping
+2025-08-18 13:17:01 - utils.compliance_checker - INFO - Checking compliance for https://www.gumtree.com
+2025-08-18 13:17:02 - utils.compliance_checker - WARNING - Could not find Terms of Service for https://www.gumtree.com
+2025-08-18 13:17:02 - __main__ - INFO - Compliance check completed
+2025-08-18 13:17:02 - __main__ - INFO - Starting GPU scraping across all marketplaces...
+2025-08-18 13:17:02 - __main__ - INFO - Scraping ebay...
+2025-08-18 13:17:02 - EBayScraper - INFO - Starting eBay UK GPU scraping...
+2025-08-18 13:17:02 - EBayScraper - INFO - Searching eBay for: RTX 30
+2025-08-18 13:17:08 - EBayScraper - INFO - Searching eBay for: RTX30
+2025-08-18 13:17:13 - EBayScraper - INFO - Searching eBay for: GeForce RTX 30
+2025-08-18 13:17:19 - EBayScraper - INFO - Searching eBay for: RTX 40
+2025-08-18 13:17:24 - EBayScraper - INFO - Searching eBay for: RTX40
+2025-08-18 13:17:29 - EBayScraper - INFO - Searching eBay for: GeForce RTX 40
+2025-08-18 13:17:35 - EBayScraper - INFO - Searching eBay for: RTX 50
+2025-08-18 13:17:40 - EBayScraper - INFO - Searching eBay for: RTX50
+2025-08-18 13:17:46 - EBayScraper - INFO - Searching eBay for: GeForce RTX 50
+2025-08-18 13:17:52 - EBayScraper - INFO - Searching eBay for: RX 6000
+2025-08-18 13:17:58 - EBayScraper - INFO - Searching eBay for: RX6000
+2025-08-18 13:18:03 - EBayScraper - INFO - Searching eBay for: Radeon RX 6000
+2025-08-18 13:18:08 - EBayScraper - INFO - Searching eBay for: RX 7000
+2025-08-18 13:18:14 - EBayScraper - INFO - Searching eBay for: RX7000
+2025-08-18 13:18:19 - EBayScraper - INFO - Searching eBay for: Radeon RX 7000
+2025-08-18 13:18:24 - EBayScraper - INFO - Searching eBay for: Arc B580
+2025-08-18 13:18:30 - EBayScraper - INFO - Searching eBay for: Intel Arc B580
+2025-08-18 13:18:35 - EBayScraper - INFO - Searching eBay for: B580
+2025-08-18 13:18:40 - EBayScraper - INFO - Searching eBay for: Arc A770
+2025-08-18 13:18:45 - EBayScraper - INFO - Searching eBay for: Intel Arc A770
+2025-08-18 13:18:51 - EBayScraper - INFO - Searching eBay for: A770
